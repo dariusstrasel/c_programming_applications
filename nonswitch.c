@@ -4,7 +4,7 @@
 int main(void)
 {
     // ask user for an integer
-    printf("Give me an integer between 1 and 10");
+    printf("Give me an integer between 1 and 10\n");
     int n = GetInt();
     
     // judge users input
